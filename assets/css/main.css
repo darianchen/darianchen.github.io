@@ -2813,6 +2813,7 @@ input, select, textarea {
 		ul.icons li {
 			display: inline-block;
 			padding: 0 0.75em 0 0;
+			
 		}
 
 			ul.icons li:last-child {
@@ -3491,6 +3492,10 @@ input, select, textarea {
 
 /* Footer */
 
+	footer{
+		height: 100%;
+	}
+
 	#sidebar + #wrapper + #footer {
 		margin-left: 18em;
 	}
@@ -3936,3 +3941,16 @@ input, select, textarea {
 #one{
 	background-color: #7c7474;
 }
+
+.icon{
+	font-size: 23px;
+}
+
+.project{
+	min-width: 100%;
+}
+
+a
+{
+	border: 0;}
+
